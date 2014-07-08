@@ -1,0 +1,5 @@
+[user]
+  name = Greg Eng
+  email = greg.eng@gmail.com 
+[alias]
+  bmr = bundle && migrate && time rake
